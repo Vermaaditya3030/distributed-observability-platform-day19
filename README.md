@@ -26,6 +26,6 @@ git init
 git add .
 git commit -m "Day 19 distributed observability platform"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/distributed-observability-day19.git
+git remote add origin https://github.com/Vermaaditya3030/distributed-observability-day19.git
 git push -u origin main
 ```
